@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm currently switching from academia to the data science field.
+Hi there!
+Welcome to my profile! I’m a former academic who made the leap into data science. Here, you’ll find a mix of EDAs, machine learning projects, and some dabbling in front-end development. Most of what you see comes from practice cases, but I hope you’ll find some handy bits of code along the way.
 
+Feel free to reach out—I’d love to connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliviagmartins) 
